@@ -26,6 +26,10 @@ Bring up a WordPress website on your local machine using **Docker** 🐳.
     * 🏗️ Setup instructions (how to run locally)
     * 🐞 Common issues + how you solved them
 
+**🎯 Result:**
+
+<img width="1391" height="949" alt="take-home-assignment-1-result" src="https://github.com/user-attachments/assets/941f3c42-baa3-4376-853a-0f5ce949b2a9" />
+
 ---
 
 💡 **Note:** This is meant to see your approach, not perfection. If you can’t complete everything, **do not worry** 🙂. Just show us what you managed to do and tell us about your thought process.
